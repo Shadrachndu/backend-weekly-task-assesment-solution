@@ -3,7 +3,7 @@
 //The formular to convert to fahrenheit is "temperature in Celsius times 9 / 5, plus 32".
 
 function convertToFahrenheit(celsius) {
-    let fahrenheit = celsius * 9 /5) + 32;
+    let fahrenheit = celsius * 9 /5  + 32;
     return fahrenheit;
 }
 
